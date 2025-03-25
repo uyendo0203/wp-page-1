@@ -1,4 +1,7 @@
-<?php get_header(); ?>
+<?php
+/* Template Name: Home Page */
+get_header();
+?>
 
 <?php get_template_part('template-parts/home1'); ?>
 <?php get_template_part('template-parts/home2'); ?>
