@@ -1,0 +1,35 @@
+[25-Mar-2025 07:42:10 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zen/Local Sites/tbasite/app/public/index.php on line 19
+[25-Mar-2025 07:42:10 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zen/Local Sites/tbasite/app/public/index.php on line 19
+[25-Mar-2025 07:42:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 2
+[25-Mar-2025 07:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 2
+[25-Mar-2025 07:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:55:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/zen/Local Sites/tbasite/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zen/Local Sites/tbasite/app/public/index.php on line 1
+[25-Mar-2025 07:58:56 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/zen/Local Sites/tbasite/app/public/wp-includes/class-wp-customize-widgets.php on line 923
